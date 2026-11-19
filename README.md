@@ -205,3 +205,6 @@ GNU General Public License v3.0 — see [LICENSE](LICENSE). Qt Charts is GPL-lic
 
 The original program's database, its sample files and any reference data derived from it are **not** part of this
 repository and are not covered by this license.
+
+## Discord Server
+*A Discord server to encourage discussion... https://discord.gg/vGdeMaytmv
